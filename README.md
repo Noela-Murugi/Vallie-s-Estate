@@ -12,7 +12,7 @@ This projects aim is to be able to recreate Vallie's Estate landing page and sho
 *Change Directory: [cd Vallie's Estate]<br>
 *Open index.html file on your browser
 # Live Page
-*****
+https://noela-murugi.github.io/Vallie-s-Estate/
 # Contact Informantion
 Incase of any enquiries or contributions, be sure to email me at [noela.murugi@student.moringaschool.com]
 # License
