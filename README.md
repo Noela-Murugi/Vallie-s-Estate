@@ -7,9 +7,9 @@ This projects aim is to be able to recreate Vallie's Estate landing page and sho
 *HTML<br>
 *CSS<br>
 # Setup instructions
-*Open the Terminal command line: [CTRL+ALT+T]
-*Clone the repository: [git clone https://github.com/Noela-Murugi/Vallie-s-Estate.git]
-*Change Directory: [cd Vallie's Estate]
+*Open the Terminal command line: [CTRL+ALT+T]<br>
+*Clone the repository: [git clone https://github.com/Noela-Murugi/Vallie-s-Estate.git]<br>
+*Change Directory: [cd Vallie's Estate]<br>
 *Open index.html file on your browser
 # Live Page
 *****
