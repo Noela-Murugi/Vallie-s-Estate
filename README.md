@@ -7,6 +7,10 @@ This projects aim is to be able to recreate Vallie's Estate landing page and sho
 *HTML<br>
 *CSS<br>
 # Setup instructions
+*Open the Terminal command line: [CTRL+ALT+T]
+*Clone the repository: [git clone https://github.com/Noela-Murugi/Vallie-s-Estate.git]
+*Change Directory: [cd Vallie's Estate]
+*Open index.html file on your browser
 # Live Page
 *****
 # Contact Informantion
@@ -14,7 +18,7 @@ Incase of any enquiries or contributions, be sure to email me at [noela.murugi@s
 # License
 MIT Licence<br>
 
-Copyright (c) 2022 MNoela<br>
+Copyright (c) 2022 Noela-Murugi<br>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
